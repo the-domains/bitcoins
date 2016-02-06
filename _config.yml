@@ -1,0 +1,28 @@
+name: bitcoins
+favicon: null
+layout_spectrum: 0.9942715901415795
+typography_spectrum: 0.4299534475430846
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6969167836941779
+  lightness: 0.8416960507165641
+  saturation: 0.39685005811043084
+  rhythmicContrast: 0.6066192886792123
+purpose: []
