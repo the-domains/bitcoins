@@ -1,28 +1,40 @@
-name: bitcoins
-favicon: null
-layout_spectrum: 0.9942715901415795
-typography_spectrum: 0.4299534475430846
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.6969167836941779
-  lightness: 0.8416960507165641
-  saturation: 0.39685005811043084
-  rhythmicContrast: 0.6066192886792123
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.3968500581104308
+  brandStrength: 0.7298604
+  lightness: 0.8416960507165641
+  brandColors:
+    - '#F7931A'
+    - '#000000'
+    - '#FFFFFF'
+    - '#C67615'
+    - '#FBCF9A'
+  rhythmicContrast: 0.6066192886792123
+typography_spectrum: 0.7577873
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: bitcoins
